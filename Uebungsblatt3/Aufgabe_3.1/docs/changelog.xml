@@ -1,0 +1,61 @@
+<changelog><commit>
+					<time>1590870131</time>
+					<sha1>ce0fb59901baaa0fde5408cd5205c05da733f52e</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add version as 0.1.0-SNAPSHOT, groupId as swt1.ub3.a1 and change artifactId to 2315017</msg>
+				</commit><commit>
+					<time>1590869520</time>
+					<sha1>a8e112a426dbe23eb20160ef5602b0d6ec170e4f</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write JUnit test for getPluginsEmpty()</msg>
+				</commit><commit>
+					<time>1590868763</time>
+					<sha1>8ed75a700de7c5c39fc8e874de028dc610196cff</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>load available plugins to the 'Load plug-ins' menu and add action listeners to the new JMenuItems</msg>
+				</commit><commit>
+					<time>1590849535</time>
+					<sha1>ffca7c27628579a38c4aa1c24e1523db7376402c</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add a JMenu for loading of plugins in Menu</msg>
+				</commit><commit>
+					<time>1590849004</time>
+					<sha1>c4498dee0678956792d86453ef389791dc671777</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement getPlugins() in PluginManagement</msg>
+				</commit><commit>
+					<time>1590846460</time>
+					<sha1>eed8fc17d99e73df3d2185eb2f09ad9e3521b2fd</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement compareTo() hashCode() and equals() in PluginForJmjrst</msg>
+				</commit><commit>
+					<time>1590842687</time>
+					<sha1>d28128630168b6259faf146f7c7fcca2be5549e1</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy files from Vorgabe_A1.zip</msg>
+				</commit><commit>
+					<time>1590842588</time>
+					<sha1>fe9be741c30aff9eb6f92a45a0d3c03ebf4f52c9</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy files from U2-Master solution</msg>
+				</commit><commit>
+					<time>1590842504</time>
+					<sha1>f4ae3c696d7edc0c2fe3fc929db8888d225cfd2c</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy files from U1-Master solution</msg>
+				</commit><commit>
+					<time>1590842449</time>
+					<sha1>8e6590a9dbe7a331d528c4d8ae4a4ee106577899</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy .gitignore from U1-Master solution</msg>
+				</commit></changelog>

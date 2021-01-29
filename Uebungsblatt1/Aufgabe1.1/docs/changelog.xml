@@ -1,0 +1,73 @@
+<changelog><commit>
+					<time>1588256556</time>
+					<sha1>d3cd30c0da7ae5fa8ef4cc1728ba431ac4e06a3e</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change version number of project iMage to 0.3.3-SNAPSHOT in both pom.xml files because U1/A1 is finished and will be uploaded to lez</msg>
+				</commit><commit>
+					<time>1588255394</time>
+					<sha1>529fc850f2aab53d095b573560bfbe62fbde64d0</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>edit TableGalerie.java to correct three checkstyle problems (',' is not proceeded by whitespace.) at Line 96/Column 41, L323/C44 and L329/C65</msg>
+				</commit><commit>
+					<time>1588253959</time>
+					<sha1>c60615ff51151d27281cc125180133e3225a367f</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add maven-jar-plugin to pom.xml of jmjrst.main, set addClassPath to true and enter mainClass information so that the produced jar files will be executable (details: U1/A1/i)</msg>
+				</commit><commit>
+					<time>1588252526</time>
+					<sha1>e801eb3ccb602a387b09cb6699bce83c5e224e2d</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>modify src.xml of jmjrst.main so that checkstyle.launch, integration-test.launch, LICENSE, options.properties and .gitignore files and templates directory will be included in zip file during Maven packaging process</msg>
+				</commit><commit>
+					<time>1588250969</time>
+					<sha1>272957073b03ca43a752b8514a7159b4573fd524</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>relocate options.properties (ignored by git) and LICENSE files from iMage/jmjrst.main/src/main/resources to iMage/jmjrst.main because U1/A1/f was misunderstood</msg>
+				</commit><commit>
+					<time>1588249706</time>
+					<sha1>8d60d93ac79302a1c7014cda25da36799ff138f9</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy src.xml, checkstyle_swt1.xml and .launch files from previous assignment to right directories in the new project (details: U1/A1/h)</msg>
+				</commit><commit>
+					<time>1588248441</time>
+					<sha1>697c1af5ae21c4f725cb3748c2454264c0dd1633</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>apply patch from patch.zip to the project to rectify the ImageFormatException in files Consumer.java and Generator.java (details: U1/A1/g)</msg>
+				</commit><commit>
+					<time>1588247902</time>
+					<sha1>e896690f136cdcf7c536170ad3bc1886387fa380</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>decopmress jmjrst.zip and copy the content to right directories in jmjrst.main (details: U1/A1/f)</msg>
+				</commit><commit>
+					<time>1588167291</time>
+					<sha1>63a0d915636c2006fa435ef22e98db753b9876dd</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add new Maven module named jmjrst.main to iMage and commit both pom.xml files (details: U1/A1/e)</msg>
+				</commit><commit>
+					<time>1588165939</time>
+					<sha1>14fdb23fe25f3cc751093a1d85787ce00724832b</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add parent pom.xml as repository in iMage/pom.xml and copy src.xml of Assignment 0 to iMage/src/assembly (details: U1/A1/d)</msg>
+				</commit><commit>
+					<time>1588165060</time>
+					<sha1>aad11d7e2403627e89ad63c993209a5aa2469721</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>create new Maven project named iMage (details: U1/A1/c) and commit pom.xml</msg>
+				</commit><commit>
+					<time>1588164641</time>
+					<sha1>7851cdd7de8f52e1a7514e3080110226133b8519</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add .gitignore to repository</msg>
+				</commit></changelog>

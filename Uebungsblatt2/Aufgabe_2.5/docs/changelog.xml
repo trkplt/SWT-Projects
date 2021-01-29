@@ -1,0 +1,367 @@
+<changelog><commit>
+					<time>1589958556</time>
+					<sha1>b6cd7943b95f1ec9916128d8e90dd861ff56b76a</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change groupID of mosaique back to swt1.ub2.a4</msg>
+				</commit><commit>
+					<time>1589958442</time>
+					<sha1>92691cd4548217b0b82ce52301cbe3759e40b0ae</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change groupIDs and artifactIDs for U5</msg>
+				</commit><commit>
+					<time>1589958076</time>
+					<sha1>40a01db01cb87384d2b9587bb6779634a9d8afa6</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change groupID</msg>
+				</commit><commit>
+					<time>1589957728</time>
+					<sha1>6687594056a96acdfd3a3443b2783682143aec7b</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change artifactID of mosaique</msg>
+				</commit><commit>
+					<time>1589955043</time>
+					<sha1>974db129125978b9cee7973996f7183ac80e940a</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>delete unused codes</msg>
+				</commit><commit>
+					<time>1589953748</time>
+					<sha1>ee0cb6d10bba6706e65ca98e7e08d07b5d73e4b5</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement main class and fix some issues in other classes</msg>
+				</commit><commit>
+					<time>1589916330</time>
+					<sha1>8a88b8bede385ae167b9b7a22b75b466010b88ef</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>fix getTileForRegion() in RectangleArtist and implement createMosaique() in MosaiqueEasel</msg>
+				</commit><commit>
+					<time>1589892212</time>
+					<sha1>d589eb74d06e916461652f529480619c94dd1ccf</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>delete tearDown() and tearDownAfterClass() in RectangleArtistTest because they are not used</msg>
+				</commit><commit>
+					<time>1589892039</time>
+					<sha1>4572e06a7e67626fcfa1f32d41470c5f6f9aac51</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write two tests for getTileForRegion() and add true as the second parameter to the color constructor in getTileForRegion</msg>
+				</commit><commit>
+					<time>1589838037</time>
+					<sha1>55eebc1db7b4ffbb58f832b8e5ef23caa8b511a6</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>fix all the implementations in RectangleShape and RectangeArtist so that they work correctly (the classes and methods were misunderstood)</msg>
+				</commit><commit>
+					<time>1589817546</time>
+					<sha1>d4e08294d6fc2a0decba2590f3bd2174c53db494</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement getThumbnails(), getTileWidth() and getTileHeight according to javadoc of interface</msg>
+				</commit><commit>
+					<time>1589761975</time>
+					<sha1>43fc947d1a7c829d358f78432bb87510d4fd3801</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement getTileForRegion() in RectangleArtist.java</msg>
+				</commit><commit>
+					<time>1589754891</time>
+					<sha1>a634a8223ff69b42c73aadf0135feec576d4d5ea</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement RectangleArtist constructor to store images, tileWidth and tileHeight</msg>
+				</commit><commit>
+					<time>1589750000</time>
+					<sha1>cc4a3f5a1662ea02b286a85b8699311f113c835d</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement getHeight(), getWidth() and getThumbnail() in RectangleShape.java according to javadoc of the implemented interface</msg>
+				</commit><commit>
+					<time>1589749219</time>
+					<sha1>05f428b32172c1c7bf76beaaeabe80fd4643e90d</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement drawMe() in RectangleShape using a nested for loop</msg>
+				</commit><commit>
+					<time>1589745366</time>
+					<sha1>c6f11b15b89e1308b43a2b7bd63a38bacf5e1738</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement getAverageColor() in RectangleShape.java using bitwise operations</msg>
+				</commit><commit>
+					<time>1589726231</time>
+					<sha1>091e39342284d020e7c2954768447d3650e09c80</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement constructor of RectangleShape, write the scaled image to a private BufferedImage</msg>
+				</commit><commit>
+					<time>1589721732</time>
+					<sha1>dbbb4e3ba6636bbeaaa54b23b1e5a87a208aa1df</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>unzip Vorgabe_A4_A5.zip and add modules to the pom.xml of iMage</msg>
+				</commit><commit>
+					<time>1589636528</time>
+					<sha1>d4bbea8b85e2e4275521d18f118a6736c470365f</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>fill Durchführbarkeitsuntersuchung (details: U2/A2)</msg>
+				</commit><commit>
+					<time>1589548778</time>
+					<sha1>1ae13c232ed2b0cc1caec81a00645386f8a3f0e9</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>create directory image.durchfuehrbarkeit and copy LaTeX draft file in to the directory</msg>
+				</commit><commit>
+					<time>1589548443</time>
+					<sha1>cf75138ba6f2c6d2694433766cae111fd27c6667</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>rename lastenheft directory to image.lastenheft</msg>
+				</commit><commit>
+					<time>1589547227</time>
+					<sha1>c3600e97fb2fdd6ae0b005bd042beac8b236bfe4</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>fix the product requirements document because the assignment was misunderstood</msg>
+				</commit><commit>
+					<time>1589457590</time>
+					<sha1>f8aa6f2e9b837c87158399b4ab42a037a22a7076</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>replace all project files with master-solution files (to eliminate possible errors because of personal implementation)</msg>
+				</commit><commit>
+					<time>1589408533</time>
+					<sha1>e39643cd494d3069946a45bddf92670464863557</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>fill the rest of the product requirements document and give its final shape until further inspiration</msg>
+				</commit><commit>
+					<time>1589403868</time>
+					<sha1>3b6a34cd520115c2d06cc3823f0ebec1e0444ed3</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change location of options.properties to resources and edit src.xml according to that, add junit and mockito dependencies to jmjrst.main (they were in the pom.xml of iMage) (these changes are according to the comment of the tutor for U1)</msg>
+				</commit><commit>
+					<time>1589396948</time>
+					<sha1>3dbe073191fca9075109af7851baa6bc3979ad8d</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>fill product requirements document draft for U2/A1</msg>
+				</commit><commit>
+					<time>1589226993</time>
+					<sha1>cd18356244cda72e86880140d10718748ddedfe4</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add exapmle product requirements document and update .gitignore for LaTeX (details: U2/A1)</msg>
+				</commit><commit>
+					<time>1588735688</time>
+					<sha1>26e6bd53098a21bc2434fcb797aa251a952e155e</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change version number of the project to 1.0.0 and groupId of jmjrst.main to swt1.ub1.a3 because U1/A3 is completed and will be uploaded to lez</msg>
+				</commit><commit>
+					<time>1588735421</time>
+					<sha1>13da1e590c763253046a5f2d93bdf5fbd0624c33</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write testRotateDeprecated() to GeneratorTest.java to examine the deprecated rotate() in Generator.java</msg>
+				</commit><commit>
+					<time>1588735259</time>
+					<sha1>68210841b02949cbc5d4d1d41f5f42bbb6df5f58</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write testRotateIMCActivateError() to GeneratorTest.java to examine rotate() with a mocked Main</msg>
+				</commit><commit>
+					<time>1588735046</time>
+					<sha1>802311f349573f948d4614e0130977159dc92931</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add testGenerateImageLandscape() to GeneratorTest.java to examine generateImage() with a landscape-image</msg>
+				</commit><commit>
+					<time>1588734821</time>
+					<sha1>709533143d51481f2bf6c5c59965e00f35a234a0</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add testCreateZipBlocked() to GeneratorTest.java to examine createZip with a read-blocked image</msg>
+				</commit><commit>
+					<time>1588734631</time>
+					<sha1>fc6a09327780bad00dd664fb3d70a9d5a474db38</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add System.gc() to copyFile() in LayoutGalerie.java, add Mockito dependency to the project iMage and call it in GeneratorTest.java</msg>
+				</commit><commit>
+					<time>1588712322</time>
+					<sha1>791264db94ced4747d5be387a0a9232a732862a5</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write testGenerateTextMainNull() in GeneratorTest.java to examine generateText() with a Generator object which is constructed with a null instead of a proper Main class</msg>
+				</commit><commit>
+					<time>1588711920</time>
+					<sha1>abb2f0c512f259245336c22d0d9090af2e47e76a</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write testRotateBlocked() to examine rotate(File file) with a read-blocked image</msg>
+				</commit><commit>
+					<time>1588703381</time>
+					<sha1>f3bdead1b24eb9a89e4a09599dba9725f0acdcc3</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write testRotate() in GeneratorTest.java to examine rotate(), add @Ignore annotation to the test because the test should pass but rotate() behaves strangely and optimize the code overall by reducing repetitive pieces of code</msg>
+				</commit><commit>
+					<time>1588691410</time>
+					<sha1>21252366bcbe563bbc159f6546e28c451a1fba2d</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write testGenerateImage() test in GeneratorTest.java to examine generateImage() while generating an image with the same height and width as the source image</msg>
+				</commit><commit>
+					<time>1588691160</time>
+					<sha1>3d077a190d713e1f523ca3f2883a6c0e2c80cbe3</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write extractZip(File zipFile, File extractionDir) method and testCreateZip test to examine the behaviour of createZip() while compressing an image</msg>
+				</commit><commit>
+					<time>1588527271</time>
+					<sha1>1038ed7af15331805025b0c6d8d3793156ca368c</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>format the code (with ctrl+shift+f) in Generator.java and GeneratorTest.java</msg>
+				</commit><commit>
+					<time>1588522474</time>
+					<sha1>8a62a96b0101c4e3edf10bed0dcacdd2d731e483</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy GeneratorTest.java to jmjrst.main/src/test/java/org/jis/generator and image.jpg to jmjrst.main/src/test/resources</msg>
+				</commit><commit>
+					<time>1588519403</time>
+					<sha1>cf2addb0bfd3c89b2234ee552cdd932cdeac21db</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change groupId of jmjrst.main to swt1.ub1.a2 so that lez accepts the project</msg>
+				</commit><commit>
+					<time>1588518641</time>
+					<sha1>d43e3b675ad2893f53f68f18c9910c5534181bd5</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change version number of iMage to 0.6.6-SNAPSHOT because U1/A2 is completed and will be uploaded to lez</msg>
+				</commit><commit>
+					<time>1588517711</time>
+					<sha1>5708e59795c0a99908c201ef7aafeba63c03c378</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>create a patch for edits on only LayoutGalerie.java from U1/A2/e and place it in jmjrst.main/src/test/resources/LayoutGalerie.patch</msg>
+				</commit><commit>
+					<time>1588452105</time>
+					<sha1>f6d62af96698414350c731f07d535210f52be3e8</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>add tests testCopyFileReadable() and testCopyFileWritable() to LayoutGalerieTest.java to examine behaviour of copyFile with read- and write-protected files, change BufferedInput- and OutputStream to FileInput- OutputStream to work correctly with read- and write-protected files, optimize setUp()(by relocating repeating processes to setUp()) and correct behaviour of tearDown()(by adding System.gc())</msg>
+				</commit><commit>
+					<time>1588349137</time>
+					<sha1>89c874bae617ef07d0cd62244f6c5dbe61ede63e</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>add a new test to examine copyFile() while target file already consists data and edit copyFile() so that it deletes the destination file before copying the source file (details: U1/A2/e)</msg>
+				</commit><commit>
+					<time>1588343140</time>
+					<sha1>38ba3348489b08577694298a14d2cc7978e41164</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>add two new test cases testing the behaviour of copyFile() trying to copy directories and non-existing files</msg>
+				</commit><commit>
+					<time>1588285880</time>
+					<sha1>4f734f7fbaf0d7c5f8b31a44192273da982b6484</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>add methods setUp() and tearDown(), replace some pieces of code from tesCopyFile() to setUp() and delete the generated files in tearDown() so that testCopyFile() will work correctly (details: U1/A2/c)</msg>
+				</commit><commit>
+					<time>1588285080</time>
+					<sha1>b0ef3e59a69c03868226cb11307677e29c43f56e</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>copy LayoutGalerieTest.java (download from ilias) to iMage/jmjrst.main/src/test/java/org/jis/generator</msg>
+				</commit><commit>
+					<time>1588284787</time>
+					<sha1>a418e18769e69b98d951f8e9ffa76a958bc9b797</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>add JUnit dependency to the Maven project iMage (details: U1/A2/b)</msg>
+				</commit><commit>
+					<time>1588256556</time>
+					<sha1>d3cd30c0da7ae5fa8ef4cc1728ba431ac4e06a3e</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>change version number of project iMage to 0.3.3-SNAPSHOT in both pom.xml files because U1/A1 is finished and will be uploaded to lez</msg>
+				</commit><commit>
+					<time>1588255394</time>
+					<sha1>529fc850f2aab53d095b573560bfbe62fbde64d0</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>edit TableGalerie.java to correct three checkstyle problems (',' is not proceeded by whitespace.) at Line 96/Column 41, L323/C44 and L329/C65</msg>
+				</commit><commit>
+					<time>1588253959</time>
+					<sha1>c60615ff51151d27281cc125180133e3225a367f</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>add maven-jar-plugin to pom.xml of jmjrst.main, set addClassPath to true and enter mainClass information so that the produced jar files will be executable (details: U1/A1/i)</msg>
+				</commit><commit>
+					<time>1588252526</time>
+					<sha1>e801eb3ccb602a387b09cb6699bce83c5e224e2d</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>modify src.xml of jmjrst.main so that checkstyle.launch, integration-test.launch, LICENSE, options.properties and .gitignore files and templates directory will be included in zip file during Maven packaging process</msg>
+				</commit><commit>
+					<time>1588250969</time>
+					<sha1>272957073b03ca43a752b8514a7159b4573fd524</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>relocate options.properties (ignored by git) and LICENSE files from iMage/jmjrst.main/src/main/resources to iMage/jmjrst.main because U1/A1/f was misunderstood</msg>
+				</commit><commit>
+					<time>1588249706</time>
+					<sha1>8d60d93ac79302a1c7014cda25da36799ff138f9</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>copy src.xml, checkstyle_swt1.xml and .launch files from previous assignment to right directories in the new project (details: U1/A1/h)</msg>
+				</commit><commit>
+					<time>1588248441</time>
+					<sha1>697c1af5ae21c4f725cb3748c2454264c0dd1633</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>apply patch from patch.zip to the project to rectify the ImageFormatException in files Consumer.java and Generator.java (details: U1/A1/g)</msg>
+				</commit><commit>
+					<time>1588247902</time>
+					<sha1>e896690f136cdcf7c536170ad3bc1886387fa380</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>decopmress jmjrst.zip and copy the content to right directories in jmjrst.main (details: U1/A1/f)</msg>
+				</commit><commit>
+					<time>1588167291</time>
+					<sha1>63a0d915636c2006fa435ef22e98db753b9876dd</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>add new Maven module named jmjrst.main to iMage and commit both pom.xml files (details: U1/A1/e)</msg>
+				</commit><commit>
+					<time>1588165939</time>
+					<sha1>14fdb23fe25f3cc751093a1d85787ce00724832b</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>add parent pom.xml as repository in iMage/pom.xml and copy src.xml of Assignment 0 to iMage/src/assembly (details: U1/A1/d)</msg>
+				</commit><commit>
+					<time>1588165060</time>
+					<sha1>aad11d7e2403627e89ad63c993209a5aa2469721</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>create new Maven project named iMage (details: U1/A1/c) and commit pom.xml</msg>
+				</commit><commit>
+					<time>1588164641</time>
+					<sha1>7851cdd7de8f52e1a7514e3080110226133b8519</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/test,refs/heads/master</branches>
+					<msg>add .gitignore to repository</msg>
+				</commit></changelog>

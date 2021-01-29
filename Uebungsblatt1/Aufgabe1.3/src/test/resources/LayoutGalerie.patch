@@ -1,0 +1,12 @@
+diff --git a/iMage/jmjrst.main/src/main/java/org/jis/generator/LayoutGalerie.java b/iMage/jmjrst.main/src/main/java/org/jis/generator/LayoutGalerie.java
+index 3e9a4e2..832da7f 100644
+--- a/iMage/jmjrst.main/src/main/java/org/jis/generator/LayoutGalerie.java
++++ b/iMage/jmjrst.main/src/main/java/org/jis/generator/LayoutGalerie.java
+@@ -549,6 +549,7 @@
+   public void copyFile(File file, File ziel) throws FileNotFoundException, IOException
+   {
+     in = new BufferedInputStream(new FileInputStream(file));
++    ziel.delete();
+     out = new BufferedOutputStream(new FileOutputStream(ziel, true));
+     int bytes = 0;
+     while ((bytes = in.read()) != -1)

@@ -1,0 +1,121 @@
+<changelog><commit>
+					<time>1590881933</time>
+					<sha1>c051a995be4484f875e5de63afd01da366181a2c</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>change init() in JavaCrashCourse so that it jumps to new line</msg>
+				</commit><commit>
+					<time>1590881410</time>
+					<sha1>e102e04297c3956aea0fae891a3b775fd1295477</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>annotate JavaCrashCourse with MetaInfServices and create tests for the class</msg>
+				</commit><commit>
+					<time>1590879285</time>
+					<sha1>488f0028b04c49b4b549ce7e93201d23fbf7fa61</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add dependencies MetaInfServices and JUnit, edit groupId, artifactId and version for upload</msg>
+				</commit><commit>
+					<time>1590877723</time>
+					<sha1>ccd6207776d6a7fce2adfdc6ac412372ffe651ff</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement run() in JavaCrashCourse</msg>
+				</commit><commit>
+					<time>1590876945</time>
+					<sha1>63f929a1a8ce06dc7a8fd1253fb000904b650360</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement configure() in JavaCrashCourse</msg>
+				</commit><commit>
+					<time>1590876678</time>
+					<sha1>c3db49039dd3835bcf8afdbf9893236bc3e76aa0</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement init() in JavaCrashCourse</msg>
+				</commit><commit>
+					<time>1590876662</time>
+					<sha1>9502d6bd7f21c528aca96d94db6ede629cdf7531</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement constructor in JavaCrashCourse</msg>
+				</commit><commit>
+					<time>1590875844</time>
+					<sha1>05a432e424fa8af81dbd617388a78306f7f8cd39</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>create src.xml for iMage.JavaCrashCourse-plugin</msg>
+				</commit><commit>
+					<time>1590875574</time>
+					<sha1>b5dfdae6bd5976851f73de643b5b00f25df23b54</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add dependency for jmjrst.main and create class JavaCrashCourse extending PluginForJmjrst</msg>
+				</commit><commit>
+					<time>1590870394</time>
+					<sha1>6c8cd4a1f0590ea0a696d1cccec237eb28a5d1ca</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>create new module named iMage.JavaCrashCourse-plugin</msg>
+				</commit><commit>
+					<time>1590870131</time>
+					<sha1>ce0fb59901baaa0fde5408cd5205c05da733f52e</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add version as 0.1.0-SNAPSHOT, groupId as swt1.ub3.a1 and change artifactId to 2315017</msg>
+				</commit><commit>
+					<time>1590869520</time>
+					<sha1>a8e112a426dbe23eb20160ef5602b0d6ec170e4f</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>write JUnit test for getPluginsEmpty()</msg>
+				</commit><commit>
+					<time>1590868763</time>
+					<sha1>8ed75a700de7c5c39fc8e874de028dc610196cff</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>load available plugins to the 'Load plug-ins' menu and add action listeners to the new JMenuItems</msg>
+				</commit><commit>
+					<time>1590849535</time>
+					<sha1>ffca7c27628579a38c4aa1c24e1523db7376402c</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>add a JMenu for loading of plugins in Menu</msg>
+				</commit><commit>
+					<time>1590849004</time>
+					<sha1>c4498dee0678956792d86453ef389791dc671777</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement getPlugins() in PluginManagement</msg>
+				</commit><commit>
+					<time>1590846460</time>
+					<sha1>eed8fc17d99e73df3d2185eb2f09ad9e3521b2fd</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>implement compareTo() hashCode() and equals() in PluginForJmjrst</msg>
+				</commit><commit>
+					<time>1590842687</time>
+					<sha1>d28128630168b6259faf146f7c7fcca2be5549e1</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy files from Vorgabe_A1.zip</msg>
+				</commit><commit>
+					<time>1590842588</time>
+					<sha1>fe9be741c30aff9eb6f92a45a0d3c03ebf4f52c9</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy files from U2-Master solution</msg>
+				</commit><commit>
+					<time>1590842504</time>
+					<sha1>f4ae3c696d7edc0c2fe3fc929db8888d225cfd2c</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy files from U1-Master solution</msg>
+				</commit><commit>
+					<time>1590842449</time>
+					<sha1>8e6590a9dbe7a331d528c4d8ae4a4ee106577899</sha1>
+					<author>Tarik Polat</author>
+					<branches>refs/heads/master</branches>
+					<msg>copy .gitignore from U1-Master solution</msg>
+				</commit></changelog>
